@@ -1,0 +1,213 @@
+/* ---------------------------------------------------------------------
+ HTML5 Reset
+ Author: Richard Clark - http://richclarkdesign.com
+------------------------------------------------------------------------ */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  font-size: 100%; }
+
+* {
+  box-sizing: border-box; }
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+a {
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  background: transparent;
+  font-size: 100%; }
+
+ins {
+  text-decoration: none;
+  color: #000;
+  background-color: #ff9; }
+
+mark {
+  color: #000;
+  background-color: #ff9;
+  font-weight: bold;
+  font-style: italic; }
+
+del {
+  text-decoration: line-through; }
+
+abbr[title], dfn[title] {
+  cursor: help;
+  border-bottom: 1px dotted; }
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse; }
+
+input, select {
+  vertical-align: middle; }
+
+li {
+  list-style-type: none; }
+
+button {
+  border-radius: 0;
+  outline: none !important;
+  background: none;
+  -webkit-appearance: none; }
+
+img, fieldset, iframe {
+  border: 0; }
+
+input {
+  border-radius: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none; }
+
+input::-moz-focus-inner, button::-moz-focus-inner {
+  padding: 0;
+  border: 0; }
+
+.container_1 {
+  display: inline-block;
+  background: #E3EEF8;
+  width: 100%;
+  height: 895px; }
+
+.block_1 {
+  background: #E3EEF8;
+  position: absolute;
+  width: 1110px;
+  height: 629px;
+  left: 400px;
+  top: 39px; }
+
+.section1_text {
+  position: absolute;
+  right: 0%;
+  color: #258AFF;
+  margin: 0px;
+  border: 1px solid #258AFF;
+  padding: 5px; }
+
+.section2_text {
+  position: absolute;
+  left: 174px;
+  right: 54.05%;
+  top: 11px;
+  color: #1F1F1F;
+  font-size: 16px;
+  line-height: 19px; }
+
+.block_2 {
+  height: 18px;
+  width: 225px;
+  left: 202px;
+  top: 0px;
+  border-radius: nullpx; }
+
+.text_1 {
+  position: absolute;
+  height: 18px;
+  left: 32.9%;
+  right: 30.46%;
+  top: 218px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 18px;
+  color: #666666; }
+
+.block_3 {
+  height: 140px;
+  width: 614px;
+  left: 0px;
+  top: 45px;
+  border-radius: nullpx; }
+
+.text_block {
+  height: 140px;
+  width: 614px;
+  left: 253px;
+  right: 243px;
+  top: 263px;
+  bottom: 54.99%; }
+
+.text_2 {
+  position: absolute;
+  left: 253px;
+  right: 243px;
+  top: 263px;
+  bottom: 54.99%;
+  text-align: center;
+  font-size: 70px;
+  color: #1F1F1F; }
+
+.text_5 {
+  position: absolute;
+  left: 282px;
+  right: 273px;
+  top: 422px;
+  bottom: 32.85%;
+  text-align: center;
+  font-size: 21px;
+  line-height: 36px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #666666;
+  padding-bottom: 135px; }
+
+.text_block_3 {
+  position: absolute;
+  left: 32px;
+  right: 54.05%;
+  top: 4px;
+  color: #1F1F1F;
+  font-size: 25px;
+  line-height: 30px; }
+
+img {
+  position: absolute;
+  left: 0.43%;
+  right: 80.95%;
+  top: 8px; }
+
+.block_orange {
+  left: 597px;
+  right: 304px;
+  top: 525px;
+  width: 209px;
+  height: 60px;
+  background: #FC593B;
+  border-radius: 5px; }
+
+.text_orange {
+  width: 209px;
+  height: 21px;
+  color: white; }
+
+
+
+
